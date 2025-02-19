@@ -1,0 +1,13 @@
+numpy
+pandas
+
+matplotlib
+seaborn
+plotly-express
+
+scikit-learn
+
+keras
+tensorflow
+
+gradio
