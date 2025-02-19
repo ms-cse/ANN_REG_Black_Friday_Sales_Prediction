@@ -54,15 +54,13 @@
 ## C. Conclusions / Insights of Exploratory Data Analysis
 - Only numerical feature 'Purchase' with 2674 oultiers (0.4863%), and moderate positive skew.
 - 'User_ID' and 'Product_ID' are the features which are identifiers for the users and products. So, will be dropped during model buidling process.
-- Features with lot of labels or categories (>=15) are ['Occupation', 'Product_Category_1', 'Product_Category_2', 'Product_Category_3'], other features have 2-6 categories.         
-<br>                
+- Features with lot of labels or categories (>=15) are ['Occupation', 'Product_Category_1', 'Product_Category_2', 'Product_Category_3'], other features have 2-6 categories.
 - Females are generally making more smaller purchases upto 11k and males beyond 11k.
 - Older users above (50 years) are purchasing more than younger users.
 - Occupations with higher purchase values are 12,15,17 and lower values are 9,19,20. 
 - City category 'C' has higher purchase and 'A' has lower values.
 - Average 'Purchase' value is nearly same for all the labels of Stay_In_Current_City_Years.
-- Singles and married are nearly same for purchase values.          
-<br>               
+- Singles and married are nearly same for purchase values.        
 - Married users staying in city for longer duration are giving more purchases than singles.       
 
 
